@@ -228,6 +228,7 @@
 
 ## 抠图
 
+- https://removal.ai/
 - https://www.gaoding.com/koutu
 - https://www.remove.bg/
 - https://burner.bonanza.com/
